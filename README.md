@@ -91,7 +91,7 @@ int main(int argc, char *argv[]) {
 
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/be998e4b-d871-4f47-addb-02765594348b)
+![image](https://github.com/user-attachments/assets/8ab47ac4-b4c0-40e7-bfe8-da4c4c254f1c)
 
 
 
